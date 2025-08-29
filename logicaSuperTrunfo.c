@@ -35,6 +35,8 @@ int main() {
     float segundaCartaPibPerCapita;
     int segundaCartaQuantidadeItemsVencedores = 0;
 
+    printf("Nivel Novato: Logica basica\n");
+
     printf("Vamos cadastrar a primeira carta!\n");
     printf("Digite o estado (A-H): \n");
     scanf(" %c", &primeiraCartaEstado);
